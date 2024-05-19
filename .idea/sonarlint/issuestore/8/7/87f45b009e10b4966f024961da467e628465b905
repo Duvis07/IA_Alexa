@@ -1,0 +1,12 @@
+
+
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ί™Ϊ7J$9cf642b3-8778-4847-bd77-974c0e000c76
+|	java:S125"<This block of commented-out lines of code should be removed.(θ“ε®ψÿÿÿÿJ$ba4cebfc-4935-4787-9712-4f5cf345a9e7
+k	java:S106"+Replace this use of System.out by a logger.(§φιÒόÿÿÿÿJ$d42ea822-4023-47d5-a4bc-61ae465b94cf
+k	java:S106'"+Replace this use of System.out by a logger.(§φιÒόÿÿÿÿJ$7b78029c-5c8b-4e89-8f59-dee2e798d170
+k	java:S106+"+Replace this use of System.out by a logger.(ªϋΣώÿÿÿÿJ$f0760379-d660-45c7-95fb-af0833b1053f
+k	java:S1063"+Replace this use of System.out by a logger.(ό°ςβψÿÿÿÿJ$5f5d1e3d-ae91-49bd-8ecb-a192afbbab3d
+e	java:S1067"+Replace this use of System.out by a logger.(η™‰{J$1b43994b-a0e8-485a-b646-548234c41dd8
+f	java:S106P"+Replace this use of System.out by a logger.(ήθ²½J$d4b92d17-fde9-4e6d-ad97-3c141fd10ec7
+f	java:S106X"+Replace this use of System.out by a logger.(ήθ²½J$5d6480b3-710d-4427-8960-bebf4f7f71df
+w	java:S125\"<This block of commented-out lines of code should be removed.(ΨοµωJ$c0a94d71-7272-481c-a424-771d9871f3bc
